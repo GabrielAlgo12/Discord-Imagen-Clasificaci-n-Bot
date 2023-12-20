@@ -1,0 +1,4 @@
+0 Cara triste
+1 Pulgar arriba
+2 Enojo
+3 Risa
